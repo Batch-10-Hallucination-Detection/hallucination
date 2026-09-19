@@ -4,7 +4,7 @@
 **Academic Project:** Major / Minor Project  
 **Department:** Computer Science & Engineering (Artificial Intelligence & Machine Learning)  
 **Institution:** Vasireddy Venkatadri Institute of Technology (VVIT)  
-**Batch ID:** C10 / B10  
+**Batch ID:** C10   
 
 ---
 
