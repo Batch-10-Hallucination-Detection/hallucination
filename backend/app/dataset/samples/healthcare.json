@@ -1,0 +1,78 @@
+{
+  "domain": "healthcare",
+  "domain_title": "Healthcare & Clinical Medicine",
+  "description": "Benchmark dataset covering pharmacological approvals, clinical treatment guidelines, side effects, and physiological facts.",
+  "corpus": [
+    {
+      "doc_id": "MED_DOC_001",
+      "title": "FDA Approval & Dosing Guidelines for Metformin",
+      "text": "Metformin was FDA approved in 1994 for type 2 diabetes mellitus management. Standard initial adult dosage is 500 mg twice daily with meals. It primary works by decreasing hepatic glucose production.",
+      "source": "FDA Clinical Drug Registry"
+    },
+    {
+      "doc_id": "MED_DOC_002",
+      "title": "Hypertension Treatment Protocols (JNC 8 Guidelines)",
+      "text": "First-line antihypertensive medications include thiazide-type diuretics, calcium channel blockers (CCBs), ACE inhibitors, and ARBs. Beta-blockers are no longer recommended as first-line therapy for uncomplicated hypertension.",
+      "source": "JNC 8 Clinical Guidelines"
+    },
+    {
+      "doc_id": "MED_DOC_003",
+      "title": "Aspirin in Cardiovascular Disease Prevention",
+      "text": "Low-dose aspirin (75-100 mg daily) is recommended for secondary prevention of cardiovascular events in patients with established coronary artery disease.",
+      "source": "American Heart Association Guidelines"
+    },
+    {
+      "doc_id": "MED_DOC_004",
+      "title": "Antibiotic Stewardship for Viral Respiratory Infections",
+      "text": "Antibiotics such as Amoxicillin are completely ineffective against viral respiratory infections like acute bronchitis and acute viral sinusitis.",
+      "source": "CDC Antibiotic Prescribing Recommendations"
+    }
+  ],
+  "samples": [
+    {
+      "sample_id": "HC_001",
+      "prompt": "When was Metformin approved by the FDA and what is its primary clinical indication?",
+      "response": "Metformin was approved by the FDA in 2012 for the treatment of type 1 diabetes and works by increasing pancreatic insulin secretion.",
+      "alternative_generations": [
+        "Metformin was FDA approved in 1994 for type 2 diabetes management.",
+        "Metformin received FDA approval in 1995 to treat type 2 diabetes by lowering liver glucose production.",
+        "FDA approved Metformin in 1994 for type 2 diabetes."
+      ],
+      "ground_truth": {
+        "is_hallucinated": true,
+        "hallucinated_claims": ["Metformin was approved by the FDA in 2012 for the treatment of type 1 diabetes", "works by increasing pancreatic insulin secretion"],
+        "category": "Factual Fabrication & Numerical Error"
+      }
+    },
+    {
+      "sample_id": "HC_002",
+      "prompt": "What are the first-line treatment medications for hypertension according to JNC 8 guidelines?",
+      "response": "First-line treatment medications for hypertension according to JNC 8 guidelines include thiazide diuretics, calcium channel blockers, ACE inhibitors, and angiotensin receptor blockers (ARBs).",
+      "alternative_generations": [
+        "JNC 8 recommends thiazide diuretics, calcium channel blockers, ACE inhibitors, or ARBs as initial therapy.",
+        "First-line drugs are thiazides, CCBs, ACEIs, and ARBs.",
+        "According to JNC 8 guidelines, initial treatment includes thiazide diuretics, CCBs, ACE inhibitors, or ARBs."
+      ],
+      "ground_truth": {
+        "is_hallucinated": false,
+        "hallucinated_claims": [],
+        "category": "Supported Fact"
+      }
+    },
+    {
+      "sample_id": "HC_003",
+      "prompt": "Can Amoxicillin be prescribed to cure acute viral bronchitis?",
+      "response": "Yes, Amoxicillin is highly effective in eradicating viral bronchitis pathogens within 48 hours.",
+      "alternative_generations": [
+        "No, antibiotics like Amoxicillin are ineffective against viral bronchitis.",
+        "Amoxicillin does not treat viral respiratory infections.",
+        "Acute viral bronchitis is caused by viruses, so Amoxicillin will not cure it."
+      ],
+      "ground_truth": {
+        "is_hallucinated": true,
+        "hallucinated_claims": ["Amoxicillin is highly effective in eradicating viral bronchitis pathogens within 48 hours"],
+        "category": "Medical Contradiction"
+      }
+    }
+  ]
+}

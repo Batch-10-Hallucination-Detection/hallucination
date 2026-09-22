@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+
+# Node dependencies & build output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+
+# Scratch & temporary repo clone
+repo/
+*.log
+.DS_Store

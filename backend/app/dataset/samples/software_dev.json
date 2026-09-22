@@ -1,0 +1,78 @@
+{
+  "domain": "software_development",
+  "domain_title": "Software Development & Computer Science",
+  "description": "Benchmark dataset covering programming language releases, framework APIs, Python stdlib changes, and database features.",
+  "corpus": [
+    {
+      "doc_id": "DEV_DOC_001",
+      "title": "Python 3.10 Pattern Matching (PEP 634)",
+      "text": "Structural pattern matching was introduced in Python 3.10 using match and case statements. Python 3.9 does not support match/case syntax.",
+      "source": "Python Official Documentation"
+    },
+    {
+      "doc_id": "DEV_DOC_002",
+      "title": "React 18 Automatic Batching & Concurrent Mode",
+      "text": "React 18 introduced Automatic Batching for state updates inside promises, setTimeout, and native event handlers, improving performance automatically.",
+      "source": "React Core Release Notes"
+    },
+    {
+      "doc_id": "DEV_DOC_003",
+      "title": "FastAPI Async Route Handling",
+      "text": "FastAPI routes defined with async def are executed on the main asyncio event loop, whereas standard def routes are executed in an external thread pool.",
+      "source": "FastAPI Documentation"
+    },
+    {
+      "doc_id": "DEV_DOC_004",
+      "title": "PostgreSQL JSONB Indexing",
+      "text": "PostgreSQL JSONB columns can be indexed using GIN (Generalized Inverted Index) to accelerate key-value and containment queries.",
+      "source": "PostgreSQL Technical Docs"
+    }
+  ],
+  "samples": [
+    {
+      "sample_id": "DEV_001",
+      "prompt": "Which Python version introduced match-case structural pattern matching?",
+      "response": "Match-case structural pattern matching was introduced in Python 3.8 back in 2019 and is fully compatible with Python 3.7.",
+      "alternative_generations": [
+        "Pattern matching was introduced in Python 3.10.",
+        "Python 3.10 added match and case syntax via PEP 634.",
+        "Python 3.10 introduced structural pattern matching."
+      ],
+      "ground_truth": {
+        "is_hallucinated": true,
+        "hallucinated_claims": ["Match-case structural pattern matching was introduced in Python 3.8 back in 2019", "fully compatible with Python 3.7"],
+        "category": "Version Confusion & Numerical Error"
+      }
+    },
+    {
+      "sample_id": "DEV_002",
+      "prompt": "What indexing technique does PostgreSQL use for indexing JSONB columns?",
+      "response": "PostgreSQL uses GIN (Generalized Inverted Index) indexing for JSONB data types to optimize containment and key lookup performance.",
+      "alternative_generations": [
+        "GIN indexes are recommended for PostgreSQL JSONB columns.",
+        "PostgreSQL uses GIN indexes for JSONB containment queries.",
+        "JSONB in PostgreSQL is indexed using GIN."
+      ],
+      "ground_truth": {
+        "is_hallucinated": false,
+        "hallucinated_claims": [],
+        "category": "Supported Fact"
+      }
+    },
+    {
+      "sample_id": "DEV_003",
+      "prompt": "How does React 18 handle state batching across asynchronous callbacks?",
+      "response": "React 18 removed automatic batching for promises and setTimeout callbacks, requiring developers to manually batch state updates with forceUpdate().",
+      "alternative_generations": [
+        "React 18 introduced automatic batching for state updates inside promises and timeouts.",
+        "Automatic batching in React 18 applies to all async callbacks by default.",
+        "React 18 automatically batches state updates across async boundaries."
+      ],
+      "ground_truth": {
+        "is_hallucinated": true,
+        "hallucinated_claims": ["React 18 removed automatic batching for promises and setTimeout callbacks", "requiring developers to manually batch state updates with forceUpdate()"],
+        "category": "API Misinterpretation"
+      }
+    }
+  ]
+}
