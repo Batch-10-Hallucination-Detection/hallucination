@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MED_001",
+    "domain": "healthcare",
+    "title": "Metformin",
+    "text": "Metformin is an oral medicine commonly used to manage Type 2 diabetes."
+  },
+  {
+    "id": "MED_002",
+    "domain": "healthcare",
+    "title": "Hypertension",
+    "text": "Common medicines used to treat hypertension include thiazide diuretics, calcium channel blockers, ACE inhibitors, and angiotensin receptor blockers."
+  },
+  {
+    "id": "MED_003",
+    "domain": "healthcare",
+    "title": "Aspirin",
+    "text": "Aspirin is a medicine that can be used in certain cardiovascular prevention settings when clinically appropriate."
+  },
+  {
+    "id": "MED_004",
+    "domain": "healthcare",
+    "title": "Antibiotic Stewardship",
+    "text": "Antibiotics are used to treat bacterial infections and are not effective against viral infections."
+  }
+]

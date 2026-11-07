@@ -1,0 +1,26 @@
+[
+  {
+    "id": "DEV_001",
+    "domain": "software",
+    "title": "Python 3.10 Pattern Matching",
+    "text": "Python 3.10 introduced structural pattern matching using the match and case statements."
+  },
+  {
+    "id": "DEV_002",
+    "domain": "React 18",
+    "title": "Automatic Batching",
+    "text": "React 18 introduced automatic batching, allowing multiple state updates to be grouped into a single re-render."
+  },
+  {
+    "id": "DEV_003",
+    "domain": "FastAPI",
+    "title": "Asynchronous Routes",
+    "text": "FastAPI supports asynchronous path operation functions using Python async def and await syntax."
+  },
+  {
+    "id": "DEV_004",
+    "domain": "PostgreSQL JSONB",
+    "title": "GIN Indexing",
+    "text": "PostgreSQL supports GIN indexes for efficiently searching keys or key-value pairs in JSONB documents."
+  }
+]
