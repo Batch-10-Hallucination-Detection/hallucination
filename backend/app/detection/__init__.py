@@ -1,3 +1,0 @@
-"""
-Detection Engines Module
-"""
