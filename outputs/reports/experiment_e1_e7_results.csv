@@ -1,0 +1,8 @@
+experiment,configuration,active_signals,accuracy,precision,recall,f1_score,auroc,auprc,latency_ms
+E1,EigenScore only,eigenscore,0.6,0.5,1.0,0.6667,1.0,1.0,2.01
+E2,Self-Consistency only,self_consistency,0.6,0.5,1.0,0.6667,0.9167,0.8,2.01
+E3,Semantic Entropy only,semantic_entropy,0.4,0.4,1.0,0.5714,0.5,0.4,2.01
+E4,Retrieval Verification only,retrieval,0.8,1.0,0.5,0.6667,0.75,0.7,2.01
+E5,EigenScore + Self-Consistency,eigenscore+self_consistency,0.6,0.5,1.0,0.6667,1.0,1.0,2.03
+E6,All Three Core Signals,eigenscore+self_consistency+semantic_entropy,0.4,0.4,1.0,0.5714,1.0,1.0,2.05
+E7,All Core Signals + Retrieval Verification,eigenscore+self_consistency+semantic_entropy+retrieval,0.6,0.5,1.0,0.6667,1.0,1.0,2.19

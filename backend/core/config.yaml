@@ -1,0 +1,60 @@
+# Hallucination Detection in Domain-Specific LLM Outputs
+# Global Configuration
+
+project:
+  title: "Hallucination Detection in Domain-Specific LLM Outputs"
+  version: "1.0.0"
+  type: "Research-Oriented Web Application"
+  seed: 42
+
+domains:
+  - id: "healthcare"
+    name: "Healthcare & Clinical Medicine"
+    description: "High-stakes clinical QA, drug dosages, contraindications, and medical guidelines."
+    benchmarks: ["Med-HALT", "PubMedQA", "HaluBench", "BioASQ"]
+  - id: "software"
+    name: "Software Development"
+    description: "Code generation, API parameters, syntax/semantics, and security vulnerabilities."
+    benchmarks: ["HumanEval-Hallucination", "RAGTruth-Code", "API-Bench"]
+
+llm:
+  default_model: "meta-llama/Meta-Llama-3-8B-Instruct"
+  temperature: 0.8
+  num_samples: 5
+  max_new_tokens: 256
+  extract_hidden_states: true
+  hidden_layer_indices: [-1, -2, -3]
+
+detection:
+  eigenscore:
+    enabled: true
+    metric: "effective_rank_entropy"  # or 'smallest_eigenvalue_ratio'
+    min_tokens: 5
+  self_consistency:
+    enabled: true
+    nli_threshold: 0.55
+    num_samples: 5
+  semantic_entropy:
+    enabled: true
+    bidirectional_entailment: true
+    clustering_threshold: 0.60
+  retrieval_verification:
+    enabled: true
+    vector_index: "faiss"
+    top_k: 3
+    similarity_threshold: 0.45
+  score_fusion:
+    method: "calibrated_logistic"  # options: 'weighted_average', 'calibrated_logistic'
+    weights:
+      eigenscore: 0.25
+      self_consistency: 0.30
+      semantic_entropy: 0.25
+      retrieval: 0.20
+
+database:
+  url: "sqlite:///./hallucination_detection.db"  # switchable to postgresql://user:pass@localhost:5432/haludb
+
+api:
+  host: "0.0.0.0"
+  port: 8000
+

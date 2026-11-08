@@ -1,0 +1,275 @@
+{"claim_id":"PROMPT-001-C01","prompt_id":"PROMPT-001","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-003-C01","prompt_id":"PROMPT-003","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-004-C02","prompt_id":"PROMPT-004","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-006-C04","prompt_id":"PROMPT-006","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-009-C02","prompt_id":"PROMPT-009","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-011-C05","prompt_id":"PROMPT-011","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-013-C02","prompt_id":"PROMPT-013","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-014-C02","prompt_id":"PROMPT-014","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-015-C01","prompt_id":"PROMPT-015","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-016-C06","prompt_id":"PROMPT-016","annotator_id":"annotator_2","label":"Contradicted","notes":"Contradicted by reference dosage guidelines and established contraindications."}
+{"claim_id":"PROMPT-017-C02","prompt_id":"PROMPT-017","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-017-C04","prompt_id":"PROMPT-017","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-018-C01","prompt_id":"PROMPT-018","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-018-C02","prompt_id":"PROMPT-018","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-018-C03","prompt_id":"PROMPT-018","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-019-C05","prompt_id":"PROMPT-019","annotator_id":"annotator_2","label":"Contradicted","notes":"Contradicted by reference dosage guidelines and established contraindications."}
+{"claim_id":"PROMPT-020-C04","prompt_id":"PROMPT-020","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-021-C03","prompt_id":"PROMPT-021","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-022-C03","prompt_id":"PROMPT-022","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-026-C03","prompt_id":"PROMPT-026","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-033-C02","prompt_id":"PROMPT-033","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-034-C04","prompt_id":"PROMPT-034","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-035-C02","prompt_id":"PROMPT-035","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-037-C01","prompt_id":"PROMPT-037","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-038-C03","prompt_id":"PROMPT-038","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-039-C04","prompt_id":"PROMPT-039","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-040-C02","prompt_id":"PROMPT-040","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-044-C03","prompt_id":"PROMPT-044","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-046-C02","prompt_id":"PROMPT-046","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-046-C03","prompt_id":"PROMPT-046","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-047-C04","prompt_id":"PROMPT-047","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-048-C01","prompt_id":"PROMPT-048","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-049-C03","prompt_id":"PROMPT-049","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-050-C04","prompt_id":"PROMPT-050","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-051-C02","prompt_id":"PROMPT-051","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-054-C03","prompt_id":"PROMPT-054","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-055-C03","prompt_id":"PROMPT-055","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-056-C01","prompt_id":"PROMPT-056","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-057-C03","prompt_id":"PROMPT-057","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-058-C03","prompt_id":"PROMPT-058","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-060-C05","prompt_id":"PROMPT-060","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-061-C03","prompt_id":"PROMPT-061","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-062-C02","prompt_id":"PROMPT-062","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-062-C04","prompt_id":"PROMPT-062","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-065-C05","prompt_id":"PROMPT-065","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-065-C06","prompt_id":"PROMPT-065","annotator_id":"annotator_2","label":"Contradicted","notes":"Annotator 2 considered statement contradicted by standard background context."}
+{"claim_id":"PROMPT-066-C04","prompt_id":"PROMPT-066","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-068-C03","prompt_id":"PROMPT-068","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-068-C06","prompt_id":"PROMPT-068","annotator_id":"annotator_2","label":"Contradicted","notes":"Contradicted by reference dosage guidelines and established contraindications."}
+{"claim_id":"PROMPT-070-C01","prompt_id":"PROMPT-070","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-070-C02","prompt_id":"PROMPT-070","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-070-C03","prompt_id":"PROMPT-070","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-071-C02","prompt_id":"PROMPT-071","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-072-C05","prompt_id":"PROMPT-072","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-073-C02","prompt_id":"PROMPT-073","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-073-C03","prompt_id":"PROMPT-073","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-073-C04","prompt_id":"PROMPT-073","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-074-C01","prompt_id":"PROMPT-074","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-075-C01","prompt_id":"PROMPT-075","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-076-C04","prompt_id":"PROMPT-076","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-077-C01","prompt_id":"PROMPT-077","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-077-C02","prompt_id":"PROMPT-077","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-077-C03","prompt_id":"PROMPT-077","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-081-C01","prompt_id":"PROMPT-081","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-081-C03","prompt_id":"PROMPT-081","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-081-C04","prompt_id":"PROMPT-081","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-084-C01","prompt_id":"PROMPT-084","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-085-C03","prompt_id":"PROMPT-085","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-086-C04","prompt_id":"PROMPT-086","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-087-C01","prompt_id":"PROMPT-087","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-087-C03","prompt_id":"PROMPT-087","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-088-C03","prompt_id":"PROMPT-088","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-089-C04","prompt_id":"PROMPT-089","annotator_id":"annotator_2","label":"Contradicted","notes":"Contradicted by reference dosage guidelines and established contraindications."}
+{"claim_id":"PROMPT-090-C05","prompt_id":"PROMPT-090","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-091-C01","prompt_id":"PROMPT-091","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-094-C02","prompt_id":"PROMPT-094","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-097-C02","prompt_id":"PROMPT-097","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-097-C05","prompt_id":"PROMPT-097","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-098-C01","prompt_id":"PROMPT-098","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-098-C03","prompt_id":"PROMPT-098","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-098-C05","prompt_id":"PROMPT-098","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-099-C03","prompt_id":"PROMPT-099","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-100-C01","prompt_id":"PROMPT-100","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-100-C05","prompt_id":"PROMPT-100","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-102-C01","prompt_id":"PROMPT-102","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-104-C04","prompt_id":"PROMPT-104","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-105-C03","prompt_id":"PROMPT-105","annotator_id":"annotator_2","label":"Unverifiable","notes":"Reference evidence is silent on this claim."}
+{"claim_id":"PROMPT-107-C02","prompt_id":"PROMPT-107","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-111-C02","prompt_id":"PROMPT-111","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-112-C02","prompt_id":"PROMPT-112","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-112-C03","prompt_id":"PROMPT-112","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-112-C04","prompt_id":"PROMPT-112","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-112-C05","prompt_id":"PROMPT-112","annotator_id":"annotator_2","label":"Contradicted","notes":"Contradicted by reference dosage guidelines and established contraindications."}
+{"claim_id":"PROMPT-116-C01","prompt_id":"PROMPT-116","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-117-C02","prompt_id":"PROMPT-117","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-118-C03","prompt_id":"PROMPT-118","annotator_id":"annotator_2","label":"Unverifiable","notes":"Reference evidence is silent on this claim."}
+{"claim_id":"PROMPT-121-C05","prompt_id":"PROMPT-121","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-123-C06","prompt_id":"PROMPT-123","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-123-C07","prompt_id":"PROMPT-123","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-124-C02","prompt_id":"PROMPT-124","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-125-C03","prompt_id":"PROMPT-125","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-126-C01","prompt_id":"PROMPT-126","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-126-C02","prompt_id":"PROMPT-126","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-126-C03","prompt_id":"PROMPT-126","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-128-C02","prompt_id":"PROMPT-128","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-129-C03","prompt_id":"PROMPT-129","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-131-C01","prompt_id":"PROMPT-131","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-131-C03","prompt_id":"PROMPT-131","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-133-C01","prompt_id":"PROMPT-133","annotator_id":"annotator_2","label":"Unverifiable","notes":"Reference evidence is silent on this claim."}
+{"claim_id":"PROMPT-133-C03","prompt_id":"PROMPT-133","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-135-C01","prompt_id":"PROMPT-135","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-135-C02","prompt_id":"PROMPT-135","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-135-C04","prompt_id":"PROMPT-135","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-139-C01","prompt_id":"PROMPT-139","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-140-C01","prompt_id":"PROMPT-140","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-143-C03","prompt_id":"PROMPT-143","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-143-C04","prompt_id":"PROMPT-143","annotator_id":"annotator_2","label":"Unverifiable","notes":"Reference evidence is silent on this claim."}
+{"claim_id":"PROMPT-144-C04","prompt_id":"PROMPT-144","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-144-C05","prompt_id":"PROMPT-144","annotator_id":"annotator_2","label":"Contradicted","notes":"Contradicted by reference dosage guidelines and established contraindications."}
+{"claim_id":"PROMPT-145-C02","prompt_id":"PROMPT-145","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-147-C03","prompt_id":"PROMPT-147","annotator_id":"annotator_2","label":"Unverifiable","notes":"Reference evidence is silent on this claim."}
+{"claim_id":"PROMPT-147-C05","prompt_id":"PROMPT-147","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-148-C03","prompt_id":"PROMPT-148","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-149-C04","prompt_id":"PROMPT-149","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-150-C01","prompt_id":"PROMPT-150","annotator_id":"annotator_2","label":"Unverifiable","notes":"Reference evidence is silent on this claim."}
+{"claim_id":"PROMPT-150-C03","prompt_id":"PROMPT-150","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-150-C04","prompt_id":"PROMPT-150","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-151-C01","prompt_id":"PROMPT-151","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-152-C04","prompt_id":"PROMPT-152","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-153-C01","prompt_id":"PROMPT-153","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-156-C03","prompt_id":"PROMPT-156","annotator_id":"annotator_2","label":"Unverifiable","notes":"Reference evidence is silent on this claim."}
+{"claim_id":"PROMPT-158-C03","prompt_id":"PROMPT-158","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-158-C05","prompt_id":"PROMPT-158","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-159-C03","prompt_id":"PROMPT-159","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-159-C04","prompt_id":"PROMPT-159","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-162-C01","prompt_id":"PROMPT-162","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-163-C01","prompt_id":"PROMPT-163","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-163-C02","prompt_id":"PROMPT-163","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-164-C02","prompt_id":"PROMPT-164","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-166-C01","prompt_id":"PROMPT-166","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-166-C02","prompt_id":"PROMPT-166","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-169-C01","prompt_id":"PROMPT-169","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-169-C05","prompt_id":"PROMPT-169","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-170-C03","prompt_id":"PROMPT-170","annotator_id":"annotator_2","label":"Unverifiable","notes":"Reference evidence is silent on this claim."}
+{"claim_id":"PROMPT-171-C01","prompt_id":"PROMPT-171","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-174-C04","prompt_id":"PROMPT-174","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-174-C05","prompt_id":"PROMPT-174","annotator_id":"annotator_2","label":"Contradicted","notes":"Contradicted by reference dosage guidelines and established contraindications."}
+{"claim_id":"PROMPT-175-C04","prompt_id":"PROMPT-175","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-176-C01","prompt_id":"PROMPT-176","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-180-C02","prompt_id":"PROMPT-180","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-180-C03","prompt_id":"PROMPT-180","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-180-C04","prompt_id":"PROMPT-180","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-182-C03","prompt_id":"PROMPT-182","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-182-C05","prompt_id":"PROMPT-182","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-183-C02","prompt_id":"PROMPT-183","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-184-C03","prompt_id":"PROMPT-184","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-185-C01","prompt_id":"PROMPT-185","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-187-C01","prompt_id":"PROMPT-187","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-187-C02","prompt_id":"PROMPT-187","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-187-C04","prompt_id":"PROMPT-187","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-188-C04","prompt_id":"PROMPT-188","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-189-C01","prompt_id":"PROMPT-189","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-190-C04","prompt_id":"PROMPT-190","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-192-C01","prompt_id":"PROMPT-192","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-192-C02","prompt_id":"PROMPT-192","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-194-C03","prompt_id":"PROMPT-194","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-194-C04","prompt_id":"PROMPT-194","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-195-C03","prompt_id":"PROMPT-195","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-197-C02","prompt_id":"PROMPT-197","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-197-C04","prompt_id":"PROMPT-197","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-198-C05","prompt_id":"PROMPT-198","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-199-C02","prompt_id":"PROMPT-199","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-199-C03","prompt_id":"PROMPT-199","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-200-C03","prompt_id":"PROMPT-200","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-201-C03","prompt_id":"PROMPT-201","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-202-C02","prompt_id":"PROMPT-202","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-203-C02","prompt_id":"PROMPT-203","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-204-C01","prompt_id":"PROMPT-204","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-204-C02","prompt_id":"PROMPT-204","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-204-C03","prompt_id":"PROMPT-204","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-204-C04","prompt_id":"PROMPT-204","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-204-C05","prompt_id":"PROMPT-204","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-205-C04","prompt_id":"PROMPT-205","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-206-C01","prompt_id":"PROMPT-206","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-206-C03","prompt_id":"PROMPT-206","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-208-C04","prompt_id":"PROMPT-208","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-209-C05","prompt_id":"PROMPT-209","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-209-C06","prompt_id":"PROMPT-209","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-210-C04","prompt_id":"PROMPT-210","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-211-C03","prompt_id":"PROMPT-211","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-212-C05","prompt_id":"PROMPT-212","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-212-C06","prompt_id":"PROMPT-212","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-214-C03","prompt_id":"PROMPT-214","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-215-C04","prompt_id":"PROMPT-215","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-216-C02","prompt_id":"PROMPT-216","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-216-C05","prompt_id":"PROMPT-216","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-218-C03","prompt_id":"PROMPT-218","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-219-C03","prompt_id":"PROMPT-219","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-220-C05","prompt_id":"PROMPT-220","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-222-C01","prompt_id":"PROMPT-222","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-223-C04","prompt_id":"PROMPT-223","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-224-C01","prompt_id":"PROMPT-224","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-225-C04","prompt_id":"PROMPT-225","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-226-C01","prompt_id":"PROMPT-226","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-226-C03","prompt_id":"PROMPT-226","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-227-C01","prompt_id":"PROMPT-227","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-227-C02","prompt_id":"PROMPT-227","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-228-C05","prompt_id":"PROMPT-228","annotator_id":"annotator_2","label":"Contradicted","notes":"Contradicted by reference dosage guidelines and established contraindications."}
+{"claim_id":"PROMPT-229-C03","prompt_id":"PROMPT-229","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-230-C02","prompt_id":"PROMPT-230","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-230-C04","prompt_id":"PROMPT-230","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-231-C02","prompt_id":"PROMPT-231","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-232-C04","prompt_id":"PROMPT-232","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-232-C05","prompt_id":"PROMPT-232","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-233-C02","prompt_id":"PROMPT-233","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-233-C05","prompt_id":"PROMPT-233","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-234-C05","prompt_id":"PROMPT-234","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-235-C02","prompt_id":"PROMPT-235","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-236-C01","prompt_id":"PROMPT-236","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-236-C02","prompt_id":"PROMPT-236","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-237-C01","prompt_id":"PROMPT-237","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-238-C04","prompt_id":"PROMPT-238","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-239-C04","prompt_id":"PROMPT-239","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-240-C02","prompt_id":"PROMPT-240","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-241-C02","prompt_id":"PROMPT-241","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-243-C02","prompt_id":"PROMPT-243","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-244-C01","prompt_id":"PROMPT-244","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-245-C01","prompt_id":"PROMPT-245","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-246-C04","prompt_id":"PROMPT-246","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-248-C01","prompt_id":"PROMPT-248","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-249-C01","prompt_id":"PROMPT-249","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-250-C01","prompt_id":"PROMPT-250","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-250-C03","prompt_id":"PROMPT-250","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-250-C06","prompt_id":"PROMPT-250","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-255-C04","prompt_id":"PROMPT-255","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-256-C01","prompt_id":"PROMPT-256","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-260-C02","prompt_id":"PROMPT-260","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-260-C04","prompt_id":"PROMPT-260","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-261-C02","prompt_id":"PROMPT-261","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-261-C03","prompt_id":"PROMPT-261","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-262-C01","prompt_id":"PROMPT-262","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-263-C02","prompt_id":"PROMPT-263","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-263-C04","prompt_id":"PROMPT-263","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-264-C01","prompt_id":"PROMPT-264","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-265-C01","prompt_id":"PROMPT-265","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-265-C02","prompt_id":"PROMPT-265","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-266-C01","prompt_id":"PROMPT-266","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-266-C04","prompt_id":"PROMPT-266","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-270-C01","prompt_id":"PROMPT-270","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-271-C01","prompt_id":"PROMPT-271","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-271-C02","prompt_id":"PROMPT-271","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-274-C01","prompt_id":"PROMPT-274","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-275-C02","prompt_id":"PROMPT-275","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-277-C02","prompt_id":"PROMPT-277","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-277-C03","prompt_id":"PROMPT-277","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-277-C06","prompt_id":"PROMPT-277","annotator_id":"annotator_2","label":"Unverifiable","notes":"Invented study citation or author not present in trusted medical corpus."}
+{"claim_id":"PROMPT-278-C03","prompt_id":"PROMPT-278","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-279-C03","prompt_id":"PROMPT-279","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-279-C04","prompt_id":"PROMPT-279","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-281-C01","prompt_id":"PROMPT-281","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-281-C03","prompt_id":"PROMPT-281","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-282-C01","prompt_id":"PROMPT-282","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-282-C02","prompt_id":"PROMPT-282","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-283-C01","prompt_id":"PROMPT-283","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-286-C01","prompt_id":"PROMPT-286","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-286-C06","prompt_id":"PROMPT-286","annotator_id":"annotator_2","label":"Contradicted","notes":"Annotator 2 considered statement contradicted by standard background context."}
+{"claim_id":"PROMPT-288-C05","prompt_id":"PROMPT-288","annotator_id":"annotator_2","label":"Contradicted","notes":"Contradicted by reference dosage guidelines and established contraindications."}
+{"claim_id":"PROMPT-289-C02","prompt_id":"PROMPT-289","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-291-C03","prompt_id":"PROMPT-291","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-292-C01","prompt_id":"PROMPT-292","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-293-C01","prompt_id":"PROMPT-293","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
+{"claim_id":"PROMPT-293-C03","prompt_id":"PROMPT-293","annotator_id":"annotator_2","label":"Unverifiable","notes":"Reference evidence is silent on this claim."}
+{"claim_id":"PROMPT-295-C03","prompt_id":"PROMPT-295","annotator_id":"annotator_2","label":"Unverifiable","notes":"Reference evidence is silent on this claim."}
+{"claim_id":"PROMPT-298-C02","prompt_id":"PROMPT-298","annotator_id":"annotator_2","label":"Unverifiable","notes":"Annotator 2 felt evidence was not explicit enough to confirm."}
+{"claim_id":"PROMPT-300-C02","prompt_id":"PROMPT-300","annotator_id":"annotator_2","label":"Supported","notes":"Corroborated by retrieved reference clinical evidence."}
